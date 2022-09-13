@@ -1,0 +1,21 @@
+.sliderBg, .subscribe{
+    background-color: #FCEAE8;
+}
+.pandaBtn{
+    background-image: linear-gradient(#FF4F95, #FF1D76);
+}
+.pandaBtn:hover{
+    color: #000 !important;
+}
+.category img{
+    width: 30%;
+}
+.categoryOne{
+    background-color: #FFC107;
+}
+.categoryTwo{
+    background-color: #198754;
+}
+.categoryThree{
+    background-color: #0D6EFD;
+}
